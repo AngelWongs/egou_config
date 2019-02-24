@@ -2,7 +2,7 @@ server:
   port: 8001
 spring:
   application:
-    name: aigou-plat
+    name: EMPLOYEE_PROVIDER
 eureka:
   client:
     service-url:
