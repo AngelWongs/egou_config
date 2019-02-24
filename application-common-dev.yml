@@ -9,7 +9,7 @@ spring:
   data:
     elasticsearch: 
       cluster-name: elasticsearch
-      cluster-nodes: http://www.eureka-7001.com:9300 #9200是图形界面端,9300代码端
+      cluster-nodes: http://www.eureka-7001.com:9300 #9200是图形界面端,9300代码端 
 eureka:
   client:
     service-url:
