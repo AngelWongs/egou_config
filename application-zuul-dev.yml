@@ -1,8 +1,6 @@
 server:
   port: 9527
 spring:
-  profiles:
-    active: dev
   application:
     name: aigou-zuul-gateway
 eureka:
