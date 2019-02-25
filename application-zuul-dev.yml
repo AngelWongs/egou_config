@@ -1,7 +1,7 @@
 server:
   port: 9527
 spring:
-    profiles:
+  profiles:
     active: dev
   application:
     name: aigou-zuul-gateway
